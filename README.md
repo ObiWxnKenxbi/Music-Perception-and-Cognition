@@ -1,6 +1,4 @@
-# Music Perception and Cognition Repository
-
-Welcome to the Music Perception and Cognition class repository for the Sound and Music Computing Masters degree! 🎶
+# Music Perception and Cognition 
 
 ## Introduction
 
